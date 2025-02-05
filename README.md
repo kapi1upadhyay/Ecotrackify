@@ -1,0 +1,2 @@
+# Ecotrackify
+MEAN stack
